@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:fillViewport="false">
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".AddRecipe">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/brown"
+        android:textStyle="bold"
+        android:text="Add Recipe"
+        android:textSize="50sp"
+        android:layout_marginTop="70dp"
+        android:fontFamily="cursive"
+        android:layout_gravity="center" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title:"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"/>
+    <EditText
+        android:id="@+id/e1"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Enter recipee title"
+        android:background="@color/lbrown"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"/>
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Preparation Time:"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"/>
+    <EditText
+        android:id="@+id/e2"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Enter recipee preparation time"
+        android:background="@color/lbrown"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"/>
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description:"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"/>
+    <EditText
+        android:id="@+id/e3"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Enter description of recipe"
+        android:background="@color/lbrown"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"/>
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingredients:"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"/>
+    <EditText
+        android:id="@+id/e4"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Enter ingredients"
+        android:background="@color/lbrown"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"/>
+    <TextView
+        android:id="@+id/t5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Method:"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"/>
+    <EditText
+        android:id="@+id/e5"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:background="@color/lbrown"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:hint="Enter recipee preparation method"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"/>
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="@color/brown"
+        android:text="Submit"
+        android:onClick="Insert"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"/>
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#FFC107</color>
+    <color name="colorAccent">#009688</color>
+    <color name="statusBarColor">#b20909</color>
+    <color name="white">#FDFAFA</color>
+    <color name="brown">#DA81290D</color>
+    <color name="peach">#C6F34A3D</color>
+    <color name="newcolor">#CBE0EB</color>
+    <color name="newcolor1">#A4A882</color>
+    <color name="newcolor2">#68AC9B</color>
+    <color name="black">#010F0C</color>
+    <color name="light">#88FDFDFD</color>
+    <color name="lbrown">#86B6887A</color>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:fillViewport="false"
+    tools:context=".Dessert4">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/newcolor"
+        tools:ignore="ExtraText"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context=".Dessert4"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="177dp"
+            android:background="@drawable/d4" />
+
+        <TextView
+            android:id="@+id/dst4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@color/white"
+            android:layout_marginBottom="18sp"
+            android:fontFamily="sans-serif"
+            android:text="Sawayyan Bites"
+            android:textAlignment="center"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+
+            android:textStyle="italic"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:text="@string/Dessert4Info">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:textColor="@color/black"
+
+            android:text="@string/Dessert4ingredients">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp"
+            android:textColor="@color/black"
+            android:text="@string/Dessert4Method"></TextView>
+
+    </LinearLayout>
+</ScrollView>

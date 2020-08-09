@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.madeeasy">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_madeeasy"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RecipeData"></activity>
+        <activity android:name=".ShowRecipe" />
+        <activity android:name=".AddRecipe" />
+        <activity android:name=".FastFood4" />
+        <activity android:name=".FastFood3" />
+        <activity android:name=".FastFood2" />
+        <activity android:name=".FastFood1" />
+        <activity android:name=".Dessert4" />
+        <activity android:name=".Dessert3" />
+        <activity android:name=".Dessert2" />
+        <activity android:name=".Dessert1" />
+        <activity android:name=".Breakfast4" />
+        <activity android:name=".Breakfast3" />
+        <activity android:name=".Breakfast2" />
+        <activity android:name=".Breakfast1" />
+        <activity android:name=".MeatDish4" />
+        <activity android:name=".MeatDish3" />
+        <activity android:name=".MeatDish2" />
+        <activity android:name=".MeatDish1" />
+        <activity android:name=".RiceDish2" />
+        <activity android:name=".RiceDish1" />
+        <activity android:name=".RiceDish4" />
+        <activity android:name=".RiceDish3" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".Breakfast" />
+        <activity android:name=".Desserts" />
+        <activity android:name=".Fastfood" />
+        <activity android:name=".Meatdishes" />
+        <activity android:name=".Ricedishes" />
+        <activity android:name=".Categories" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".signup" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

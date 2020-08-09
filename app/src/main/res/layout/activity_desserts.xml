@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Desserts">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/newcolor"
+        tools:ignore="ExtraText"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context=".Desserts"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="201dp"
+            android:background="@drawable/d" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@color/white"
+
+            android:fontFamily="sans-serif"
+            android:text="Coconut Kheer"
+            android:textAlignment="center"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+android:onClick="zafranikheer"
+            android:background="@drawable/d1"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Royal Falooda"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+            android:background="@drawable/d2"
+android:onClick="falooda"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Tiramisu Poke Cake"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="156dp"
+            android:background="@drawable/d3"
+android:onClick="cake"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Sawayyan Bites"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="156dp"
+            android:background="@drawable/d4"
+android:onClick="sawayyan"
+            />
+    </LinearLayout>
+</ScrollView>

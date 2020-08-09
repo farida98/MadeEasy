@@ -1,0 +1,572 @@
+<resources>
+    <string name="app_name">MadeEasy</string>
+    <string-array name="Categories">
+        <item>Rice dishes</item>
+        <item>Meat Dishes</item>
+        <item>Fast Foods</item>
+        <item>Desserts</item>
+        <item>Breakfast</item>
+        <item>Vegetable Dishes</item>
+    </string-array>
+    <string name="RiceInfo">This rice salad includes summer squash, tomatoes, spinach, green onions, and a lemon and olive oil dressing. It pairs well with grilled or broiled steak, fish or seafood."</string>
+    <string name="Riceingredients">
+        Ingredients: \n
+    •  2 green onions/scallions (thinly sliced)\n
+•  2 to 3 cloves of garlic (crushed and finely minced)\n
+•  1 small summer squash (diced)\n
+•  1 large tomato (diced)\n
+•  1/2 red bell pepper (minced)\n
+•  1 cup spinach leaves (rolled together tightly and very thinly sliced/chiffonade technique)\n
+•  2 tablespoons finely chopped fresh parsley\n
+•  1 small carrot (grated or minced)\n
+•  1/4 cup fresh lemon juice\n
+•  1/4 cup extra-virgin olive oil\n
+•  1 1/2 to 2 cups cooked rice\n
+•  Salt and pepper (to taste)\n
+•  Optional: slivered toasted almonds \n</string>
+    <string name="RiceMethod">Steps to Make It:\n
+    1. Toss prepared vegetables together in a glass or ceramic bowl (non-reactive container).\n
+    2. In a small bowl with the lemon juice, drizzle olive oil while whisking, to emulsify the liquids. Add to vegetables; cover and refrigerate for an hour.\n
+    3. Add cooked, cooled rice; add salt and pepper to taste.\n
+    4. To toast almonds, put them in a dry skillet over medium heat. Cook, stirring and turning constantly, just until lightly browned and aromatic.\n
+    5. Top with toasted almonds.\n
+    6. Refrigerate until serving time.\n</string>
+
+
+    <string name="Rice2Info">"This easy and delicious recipe for salmon fried rice is quicker to make than most because you start with leftover rice pilaf. It's best prepared in a wok, but you could also use a skillet if you don't have a wok."</string>
+    <string name="Rice2ingredients">
+        Ingredients: \n
+   •   3 tbsp. olive oil\n
+•  2-3 cups leftover rice pilaf OR cold cooked rice\n
+•  1 (7-ounce) can red salmon (drained)\n
+•  1 cup frozen baby peas\n
+•  2 eggs (beaten)\n
+•  2 tbsp. low sodium soy sauce\n</string>
+    <string name="Rice2Method">Steps to Make It:\n
+   1.  In heavy skillet or wok over medium-high heat, heat olive oil. Carefully add the leftover rice pilaf or cold cooked rice and stir-fry for a few minutes to heat.
+\n
+
+2. Add salmon and frozen peas; stir-fry for 3-5 minutes until peas are hot. Push mixture to sides of skillet or wok and add beaten eggs.
+\n
+3. Scramble eggs until just set, then stir eggs into rice mixture. Sprinkle with soy sauce and stir-fry for another minute or two, then serve.\n</string>
+    <string name="Rice3Info">This sticky rice recipe is simple to make and oh so delicious! A
+        meal unto itself, this Thai Sticky Rice with Pork and Mushrooms is a savory dish that is similar to fried rice,
+        except it has a wonderfully chewy texture that even kids enjoy.</string>
+    <string name="Rice3ingredients">
+        Ingredients:\n\n
+    •	2 cups Thai sticky rice (also called Thai "sweet rice") soaked in 3+1/2 cups water\n
+    •	3-4 strips bacon\n
+    •	1/3 cup shallots or purple onion (diced)\n
+    •	1 cup shiitake mushroom (diced)\n
+    •	1 tsp. garlic (minced)\n
+    •	1 red chili (de-seeded and minced, or 1/2 tsp. dried crushed chili (omit for mild rice))\n
+    •	1+1/2 Tbsp. fish sauce\n
+    •	1+1/2 tsp. dark soy sauce (or mushroom-flavored soy sauce (or 2 Tbsp. regular soy sauce))\n
+    •	1 Tbsp. regular soy sauce\n
+    •	3 spring onions (finely sliced)\n
+    •	1 package banana leaves (or bamboo leaves (thawed if frozen), OR cheesecloth or clean kitchen cloth)\n
+    •	Optional garnished: 2 tablespoons fresh basil, cilantro, coriander, or red chili</string>
+    <string name="Rice3Method">Steps to Make It:\n\n
+         1.	Soak 2 cups sweet (sticky) rice in 3-4 cups water, or enough so water exceeds the rice by at least 1 inch. Soak for at least 40 minutes (if you lose track of time, its no problem - sticky rice can soak up to 4 hours or longer). Note: Sweet rice has a hard outer shell that needs to soften before it can be cooked.
+        \n
+        2.	While rice is soaking, prepare your steamer. Line a bamboo steamer or colander with 2 layers of banana/bamboo leaf, OR use cheesecloth, or a clean kitchen cloth. To clean and thaw the leaf (if frozen), rinse under hot water. Cut the leaf large enough that it extends over the top. Place steamer over a large pot, and have a tight-fitting lid ready.
+        \n
+        3.	Place bacon in a large frying pan/wok together with 1-2 Tbsp. water. Fry over medium-high heat until cooked (chewy, not crisp). Remove from heat, leaving all or half the fat in the frying pan.
+            \n
+        4.	Remove bacon from the pan and cut into small pieces (I use a clean pair of scissors for this, like they do in Asia - much faster and easier than a knife!). Place it back in the frying pan.
+                \n
+        5.	Also add to the frying pan the shallots or onion, mushrooms, garlic, and chili. Return to medium-high heat and stir-fry 1-2 minutes, until fragrant. If your pan becomes dry, add a little water (1-2 Tbsp.).
+        \n</string>
+
+    <string name="Rice4Info">This yummy, aromatic Biryani  is made by the Muslim community in Mumbai
+        (previously known as Bombay), hence the name of Bombay biryani. Try it just once and you will be
+        hooked! Serve it with raita and salad of your choice.</string>
+
+    <string name="Rice4ingredients">
+        Ingredients:\n\n
+    •	2 pounds basmati rice\n
+    •	20 gm Garam Masalah\n
+    •	Salt as needed\n
+    •	Half cup cooking oil\n
+    •	2 TBSP ginger garlic paste\n
+    •	700 gm chicken\n
+    •	3 tomato slice\n
+    •	1 cup yogurt\n
+    •	2 TBSP red chili powder\n
+    •	1 TSP Green coriander powder\n
+    •	1 TSP cumin powder\n</string>
+
+    <string name="Rice4Method">
+        Steps to Make It:\n\n
+    1.	Add water in a bowl, then add Guard Rice and soak them for 20-25 Minutes in water\n
+
+        2.	In a bowel, add some water. Then add garam Masalah, salt cooking oil in this water and cook then strain and separate. Then add rice and cook for a while\n
+            3.	In a pan, add cooking oil, ginger garlic paste, cumin, chicken, garam Masalah, , yogurt, salt\n
+
+                4.	Red chili powder, green coriander powder, cumin powder, tomato paste, turmeric and cook then add potatoes and simmer it for 5-7 Minutes\n
+
+                    5.	Fry it for 2 minutes.\n</string>
+
+    <string name="MeatInfo">This recipe for Indian​ masala kheema, or meat mince, can be made with any meat
+        you prefer—chicken, lamb, pork, goat meat, or any combination such as minced pork and veal—but has
+        become synonymous with lamb as this is a pantry staple in India.</string>
+
+    <string name="Meatingredients">
+        Ingredients:\n\n
+    •	3 tablespoons vegetable oil (or canola or sunflower cooking oil)\n
+•	1 teaspoon cumin seeds\n
+•	2 medium onions (finely chopped)\n
+•	1 tablespoon garlic paste\n
+•	1 tablespoon ginger paste\n
+•	2 tablespoons coriander\n
+•	1 tablespoon cumin\n
+•	1 tablespoon garam masala\n
+•	Salt (to taste)\n
+•	1 pound ground beef (or use any ground meat you prefer for this recipe)\n
+•	2 medium tomatoes (finely chopped)\n
+•	1/2 lime (or lemon, juiced)\n
+•	Garnish: fresh cilantro leaves (chopped)\n\n</string>
+
+    <string name="MeatMethod">
+        Steps to Make It:\n\n
+    1.	Gather the ingredients..\n
+2.	Heat the cooking oil in a wok or deep pan over medium heat..\n
+3.	Add the cumin seeds and fry for 1 minute or until the seeds stop spluttering.\n
+4.	Add the onions and sauté till they turn a pale golden color - about 5 minutes.\n
+5.	Add the garlic and ginger pastes and fry for 1 minute to get rid of the "raw" fragrance.\n
+6.	Add the coriander, cumin, garam masala, and salt to taste and sauté, stirring almost continuously, until the oil begins to separate from the masala.\n</string>
+
+
+    <string name="Meat2Info">We love our spaghetti. Filipinos have transformed this imported Italian American
+        staple into their own, by adding ketchup, hotdogs, then turning it slightly sweet.</string>
+
+    <string name="Meat2ingredients">
+        Ingredients:\n\n
+        •	500g Bounty Fresh ground Meat\n
+•	1 white onion, minced\n
+•	3/4 tsp iodized salt\n
+•	1/4 tsp pepper\n
+•	1 egg\n
+•	1/3 cup breadcrumbs\n
+•	1/2 cup store-bought buffalo sauce of choice\n\n</string>
+
+    <string name="Meat2Method">
+        Steps to Make It:\n\n
+    1.	Combine all ingredients in a bowl. Mix well.\n
+    2.	Form into balls and set aside in the chiller.\n
+    3.	When already firm to handle, take out from chiller.\n
+    4.	Heat 1 inch oil in pan.\n
+    5.	Pan-fry each meatball on all sides.\n
+    6.	Drain excess oil on paper towels and set aside for use in buffalo sauce.\n
+    7.	Melt butter in pan.\n
+    8.	Sauté onions and garlic.\n
+    9.	Add in water, crushed tomatoes, buffalo sauce, and hot sauce.\n
+    10.	 Boil and add in meatballs.\n
+    11.	 Simmer for 10 minutes. Add more water if needed.\n
+    12.	 Season with salt and pepper.\n
+    13.	 Arrange spaghetti noodles on plate.\n
+    14.	 Pour sauce over the noodles.\n
+    15.	 Garnish with chopped parsley.\n
+        16.	 Serve immediately.\n</string>
+
+    <string name="Meat3Info">Beef daube originates from the Provence region of France. Try this mode
+        rn take for a hearty winter meal.</string>
+
+    <string name="Meat3ingredients">
+        Ingredients:\n\n
+      •	2 teaspoons olive oil\n
+•	600g beef chuck steak trimmed, cut into 3cm pieces\n
+•	1 brown onion, chopped\n
+•	1 carrot, chopped\n
+•	2 garlic cloves, finely chopped\n
+•	3 tomatoes, chopped\n
+•	3 fresh thyme sprigs\n
+•	7cm strip orange rind\n
+•	2 dried Bay Leaves\n
+•	Mashed potato, to serve\n
+•	Steamed green beans, to serve\n
+•	Salt, to season\n\n</string>
+
+    <string name="Meat3Method">
+        Steps to Make It:\n\n
+   1.	Heat half the oil in a large frying pan over medium-high heat. Add beef. Cook, turning occasionally, for 5 minutes or until browned. Transfer to the bowl of a 5.5-litre slow cooker.\n
+ 2.	Heat remaining oil in pan over medium heat. Add onion, carrot, celery and garlic. Cook, stirring occasionally, for 5 minutes or until softened. Transfer to the slow cooker.\n
+ 3.	Add wine, tomato, thyme, orange rind and bay leaves to slow cooker. Stir to combine. Cover with lid. Cook on low for 6 to 8 hours (or on high for 4 hours), removing the lid halfway through cooking.\n
+ 4.	Remove and discard thyme, orange rind and bay leaves. Season with salt and pepper. Serve with mashed potato and green beans.\n\n</string>
+
+
+    <string name="Meat4Info">Stout and prunes add unexpected sweetness to this saucy beef stew.</string>
+
+    <string name="Meat4ingredients">
+        Ingredients:\n\n
+    •	1.2kg blade or chuck steak, trimmed, cut into 3cm pieces\n
+•	1/4 cup (35g) plain flour, seasoned\n
+•	1/4 cup (60ml) olive oil\n
+•	2 celery stalks, finely chopped\n
+•	3 garlic cloves, finely chopped\n
+•	4 bacon rashers, finely chopped\n
+•	2 tbs tomato paste\n
+•	1 cup (250ml) stout (such as Guinness)\n
+•	2 cups (500ml) beef stock\n
+•	1 bay leaf\n
+•	1/2 cup pitted prunes, chopped\n
+•	1 tbs unsalted butter\n
+•	400g small eschalots, peeled\n
+•	4 carrots, cut into chunks\n
+•	Roasted chat potatoes, to serve\n\n</string>
+
+    <string name="Meat4Method">
+        Steps to Make It:\n\n
+    1.	Preheat the oven to 150°C.\n
+    2.	Lightly dust the meat in the flour, shaking off and reserving excess. Heat 2 tbs oil over medium-high heat in a large flameproof casserole dish. In batches, cook beef, turning, for 3-4 minutes until browned all over. Remove from pan and set aside.\n
+    3.	Reduce heat to medium, add remaining 1 tbs oil to the pan with the celery, garlic and bacon. Cook, stirring, for 3-4 minutes until tender. Return the beef to the pan and add the tomato paste and reserved flour and stir for 1 minute\n. Add the stout, beef stock, bay leaf and prunes and stir to combine. Bring to a simmer, cover, and cook in the oven for 1 1/2 hours.\n
+    4.	Heat butter in a large frypan over medium heat. Cook eschalots, stirring, for 3-4 minutes until the outside layer starts to soften.\n Add eschalots and carrots to the casserole, cover and return to the oven for a further 1 hour or until the meat is tender and the sauce is rich and thick.\n Serve with roasted chat potatoes.
+    </string>
+
+    <string name="BreakfastInfo">This recipe is a moreish combination of creamy avocado, salty feta, a hint of chilli, topped off with a runny poached egg. Worth getting up for!"</string>
+    <string name="Breakfastingredients">
+        Ingredients: \n
+    •	2 tbsp white wine vinegar\n
+•   2 large eggs\n
+•   1 avocado\n
+•   50g feta\n
+•   1 tsp chilli flakes\n
+•   juice ½ lemon\n
+•   2 slices of sourdough \n</string>
+    <string name="BreakfastMethod">Steps to Make It:\n
+   1.	Fill a large saucepan with water, add the vinegar and bring to a hard boil over a high heat. Once boiling, reduce the heat so the water is simmering, then use a spoon to swirl the water into a whirlpool. Crack in both eggs and cook for 2 1/2 mins.
+2.	Meanwhile, in a small bowl, mash the avocado, feta, chilli flakes and lemon juice, and season well with black pepper. Toast the bread.\n
+3.	Pile the avocado and feta on the toast, then put a poached egg on top of each.\n</string>
+
+
+    <string name="Breakfast2Info">"Gluten-free banana pancakes you can whip up in just 10 minutes! Scatter with pecans and raspberries to enjoy a low-calorie yet indulgent breakfast"</string>
+    <string name="Breakfast2ingredients">
+        Ingredients: \n
+  •	1 large banana\n
+•   2 medium eggs, beaten\n
+•   pinch of baking powder(gluten-free if coeliac)\n
+•   splash of vanilla extract\n
+•   1 tsp oil\n
+•   25g pecans, roughly chopped\n
+•   125g raspberries\n</string>
+    <string name="Breakfast2Method">Steps to Make It:\n
+1.	In a bowl, mash 1 large banana with a fork until it resembles a thick purée.\n
+2.	tir in 2 beaten eggs, a pinch of baking powder (gluten-free if coeliac) and a splash of vanilla extract.\n
+3.	Heat a large non-stick frying pan or pancake pan over a medium heat and brush with ½ tsp oil.\n
+4.  Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with another ½ tsp oil and the remaining batter.\n
+5.  Top the pancakes with 25g roughly chopped pecans and 125g raspberries.\n</string>
+
+
+    <string name="Breakfast3Info">"Stephen Mangan's easy breakfast pancakes are great for getting kids into cooking, and they're healthier with the addition of agave syrup rather than sugar,  and chopped mixed nuts."</string>
+    <string name="Breakfast3ingredients">
+        Ingredients: \n
+  •	150g self-raising flour\n
+•   ½ tsp baking powder\n
+•   1 large egg\n
+•   150ml milk\n
+•   2 tbsp agave syrup, plus extra to serve\n
+•   50g mixed nuts, chopped\n
+•   2 tbsp rapeseed oil, for frying\n</string>
+    <string name="Breakfast3Method">Steps to Make It:\n
+1.	Tip the flour and baking powder into a large bowl with a pinch of salt. Make a well in the centre, then add the egg, milk and syrup. Whisk until smooth, then fold in half the nuts.\n
+2.	Heat 1 tbsp oil in a large, non-stick frying pan over a medium-high heat. Spoon two ladles of the mixture into the pan and cook for 1 min each side. Repeat to make two more.\n
+3.	Serve with a drizzle of agave syrup and the remaining nuts for extra crunch.\n</string>
+
+
+    <string name="Breakfast4Info">"Start your day off with a little ray of sunshine - a low-fat smoothie that's one of your five-a-day and tasty too!"</string>
+    <string name="Breakfast4ingredients">
+        Ingredients: \n
+•	500ml carrot juice, chilled\n
+•   200g pineapple(fresh or canned)\n
+•   2 bananas, broken into chunks\n
+•   small piece ginger, peeled\n
+•   20g cashew nuts\n
+•   juice 1 lime\n</string>
+    <string name="Breakfast4Method">Steps to Make It:\n
+1.	Put the ingredients in a blender and whizz until smooth. Drink straight away or pour into a bottle to drink on the go. Will keep in the fridge for a day.\n</string>
+
+    <string name="Dessert1Info">A quick fix for your sweet tooth. Indulge in this classic recipe of Coconut Kheer, prepared with National Kheer Mix, wafting with hints of cardamom and whiffs of saffron.</string>
+    <string name="Dessert1ingredients">
+        Ingredients: \n
+  •	National Kheer Mix 1 pack \n
+•	Saffron 1 pinch \n
+•	Milk 1L \n
+•	Chopped Dry Fruits for topping \n
+•	Silver Leaf (Varq) for topping \n
+•	Coconut for garnishing \n</string>
+    <string name="Dessert1Method">Steps to Make It:\n
+        1. Boil 2 cups of milk and a pinch of Saffron. Stir this mixture until it thickens.\n
+2.	Then, add 1 tbsp of chopped almonds and 1 tbsp of chopped pistachios.\n
+3.	Add ½ pack of National Kheer Mix, and keep stirring rigorously.\n
+4.	To finish off, add 1 tbsp of crushed coconut. Allow this to cool and refrigerate for 30 minutes.\n
+5.	Top it up with silver leaf, dry fruits and garnish with coconut.\n</string>
+
+    <string name="Dessert2Info">One of the most popular cold desserts of this part of the world served with vermicelli, sabja seeds, rose milk and dry fruits. This special Falooda tastes so royal with National Jelly that you’d actually feel its class and grandeur.</string>
+    <string name="Dessert2ingredients">
+        Ingredients: \n
+ For Jelly\n
+•	National Strawberry Jelly 1 packet\n
+•   Sugar 4 tbsps \n
+•   Rose Essence 2 drops \n
+•	Water 1 cup \n
+For Vermicelli:\n
+•	National Vermicelli ¼ cup \n
+•   Ghee 1 tbsp \n
+•	Water ¼ cup \n
+•   Sugar 2 tbsp \n
+        For Falooda:\n
+•   Milk 1 liter\n
+•   Basil Seeds 1 tbsp\n
+•   Pink Food Color ½ tsp\n
+•   Chopped Pistachios 50 gm\n
+•   Chopped Almonds 50 gm\n
+•   Peel Pistachios 50 gm\n
+•   Rose Essence 5 drops\n
+•   Sugar 1 ½ cups\n
+•   Kulfa Ice Cream 2 scoops\n
+•   Khoya 100 gm\n
+•   National Corn Flour 1 ½ tbsp\n
+•   Mixed Fruit Can ½ can\n</string>
+    <string name="Dessert2Method">Steps to Make It:\n
+        1. Stir the National Vermicelli in ghee for 2 minutes and then add quarter cup water and 2 tbsp sugar. Cook it on steam for 2-3 minutes, keep stirring at room temperature.\n
+2. For Jelly, simmer all the ingredients on low flame for 2-3 minutes and set aside.\n
+3. For Falooda, heat 1 cup milk on low flame and dissolve 1.5 cups of sugar, 5 drops rose essence and 1 tsp pink food color in it. Add 2 tbsp of chopped almonds and pistachios, 1 tsp basil seeds, 50 gm khoya and cook for 2 minutes. Now add 1.5 heaped tbsp of National Corn Flour in it, simmer till it gets a little thick and turn off the flame. Add more khoya and stir. Now let it cool completely and refrigerate for 30-35 minutes.\n
+4. Pour it in a serving bowl. Add mixed fruits, cooked vermicelli and mix. Now add 3 scoops of ice cream, National Strawberry Jelly and peeled pistachios on top, refrigerate for at least 3 hours and serve\n</string>
+
+    <string name="Dessert3Info">The Tiramisu Poke Cake features National Vanilla Custard, accentuated with strong espresso flavors to give a bittersweet coffee-custardy treat to your taste buds.</string>
+    <string name="Dessert3ingredients">
+        Ingredients: \n
+  • Cooking Spray for pan \n
+• Flour 1 cup \n
+• Eggs 3 \n
+• Liquid Coffee 3 tbsp \n
+• National Vanilla Custard Powder  5 tbsp \n
+• Milk 3 cups \n
+• Instant Coffee 2 tbsp \n
+• Cream  2 cups \n
+• Sugar 8 tbsp \n
+• Pure Vanilla Extract 1 tsp \n
+• National Salt 1 pinch \n
+• Cocoa Powder ½ \n
+• Chocolate Shavings 1 cup \n</string>
+    <string name="Dessert3Method">Steps to Make It:\n
+     1.  Preheat oven to 350º and grease and flour a 9″-x-13″ cake pan.\n
+2. To prepare plain yellow cake, add 1 cup flour, whisk in 3 eggs, 3 tbsp liquid coffee, and 3 tbsp water. Whisk it together to make the batter. Pour into the prepared pan with flour dusted on the base.\n
+3. Bake for 25 minutes or until a toothpick inserted in the center comes out clean. Let it cool for 10 minutes.\n
+4. Whisk together 1 tbsp National Vanilla Custard Powder and 4 tbsp of milk, and cook until thick. Set aside.\n
+5. In a big bowl, add 1 cup coffee flavored milk and 3 tbsp sugar, whisk well and add 2 tbsp vanilla extract. Add further more 3 tbsp espresso coffee and whisk. Add the vanilla custard mix to this and keep stirring.\n
+6.In another large bowl, beat cream, sugar, vanilla extract and a pinch of National Salt until stiff peak forms. Set aside.\n
+7. Using the bottom of a wooden spoon, poke holes all over the cake. Spread custard mixture on top, making sure to fill poke holes. Top with whipped cream and a dusting of cocoa powder. Sprinkle with chocolate shavings and serve.\n</string>
+
+    <string name="Dessert4Info">Sweeten your life with the sweet taste of Vermecilli bites, prepared using National Vermicelli. We’re not sugar-coating. Try this recipe yourself to find out.</string>
+    <string name="Dessert4ingredients">
+        Ingredients: \n
+  •   National Vermicelli 1 pack \n
+•   Sweetened Condense Milk 1 can (397 gms)\n
+•   Khoya 100 gms\n
+•   Desi Ghee 1 tbsp \n
+•   Cardamom Powder 1 pinch \n
+•   Pistachios 50 gms (Powder) \n
+•   Almonds 50 gms (Powder) \n
+•   Milk ½ cup\n</string>
+    <string name="Dessert4Method">Steps to Make It:\n
+       1.	In a cooking pan, heat 2 tbsp Ghee and mix ½ tsp Cardamom Powder. Break 1 pack of National Vermicelli, add them in ghee and stir them for 2-4 minutes on low heat until fragrant.\n
+2.  Now add 1 Can of Sweetened Condense Milk in it immerse the Vermicelli properly in it by stirring. When it is fully immersed, add about 100 gms of Khoya. Simmer for 2-4 minutes.\n
+3.  When the liquid is evaporated, take it out and put the Vermicelli on a lightly greased deep dish and let it cool down.\n
+4.  Sprinkle the powdered pistachio and almonds on it.\n
+5.  After 10 minutes, make cut marks on it till deep and let it cool down.\n
+6.  Now cut it in squares, keep it in fridge for an hour and serve.\n</string>
+    <string name="fastinfo1">A mouthwatering take over usual French Fries. These baked Pizza Fries are easy to make, yet so tasty that you can not settle for less. This dish is sure a delight for every pizza lover out here."</string>
+    <string name="fastingredients1">
+        Ingredients: \n
+    • Frozen Fries 1 packet\n
+•  Pizza Sauce 1 cup\n
+•  Chicken Pepperonis 1 cup\n
+•  Capsicum (chopped) ½ medium size\n
+•  Onion (chopped) ½ medium size\n
+•  Tomato (chopped) ½ medium size\n
+•  Jalapenos 4-5\n
+•  Black Olive (sliced) 2 tbsp\n
+•  Mozzarella Cheese (shredded) 150 gms\n
+•  Ranch Sauce as per requirement\n
+•  Buffalo Cream Sauce as per requirement\n
+•  Dried Oregano 1 tbsp\n
+•  Red Chili Flakes 1 tsp \n
+•  Rocket Leaves 4\n\n
+        Ranch Sauce:\n
+•  National’s Mayonnaise ½ cup\n
+•  Cream ½ cup\n
+•  Clove Garlic (peeled and crushed) 1-2\n
+•  Onion Chopped 1 tbsp\n
+•  National Salt ¼ tsp\n
+•  Mustard Paste ¼ tsp\n
+•  Green Onion 2 tbsp\n
+•  Parsley (chopped) 1 tbsp\n
+•  Dill or Soya 1 tbsp\n
+•  Ground Black Pepper ¼ tsp\n\n
+        Buffalo Cream Sauce:\n
+•  National’s Classic Mayonnaise ½ cup\n
+•  Melted Butter 2 tbsp\n
+•  Buffalo Sauce 4 tbsp\n
+•  Chopped Garlic 2 tbsp\n
+•  Hot Sauce 1 tbsp\n
+•  Lemon Juice 1 tbsp\n
+
+    </string>
+    <string name="fastMethod1">Steps to Make It:\n
+    1. First prepare Ranch Sauce by mixing ½ cup National’s Mayonnaise, ½ cup Cream, 1-2 Clove Garlic, 1 tbsp Onion Chopped, ¼ tsp National Salt, 1/2 tsp Mustard Paste, 2 tbsp Green Onion, ) 1 tbsp Parsley (chopped), 1 tbsp Dill or Soya and ¼ tsp Ground Black Pepper.\n
+    2. Next make Buffalo Cream Sauce, by mixing ½ cup National’s Classic Mayonnaise, 2 tbsp Melted Butter, 4 tbsp Buffalo Sauce, 2 tbsp Chopped Garlic, 1 tbsp Hot Sauce, 1 tbsp Lemon Juice. Mix well.\n\n
+        Pizza Sauce Recipe:\n\n
+    1. Blanch 6 tomatoes, peel off the skin and blend it well.\n
+    2. Now take 2 tbsp of cooking oil and sauté 1 tbsp of chopped garlic in it and add blended tomatoes, 2 tbsp canned tomato purée, 1 tsp red chili flakes, ½ tsp National Salt and 1 tsp heaped oregano leaves.\n
+    3. Cook it until the water is evaporated.\n
+    4. Mix everything well till it becomes smooth and creamy.\n
+    5. Pre heat the oven on 180 degrees for 30 minutes. Meanwhile, fry the French fries and make them crispy.\n
+    6. Now put them in a dish and add pizza sauce on them, add shredded cheese, all the vegetables, add oregano and red chili flakes on top and bake it for 10 minutes until cheese melts and the top layer becomes golden brown.\n
+    7. Take it out. Add dollops of ranch and buffalo cream dressing and serve it with rocket leaves.\n
+    </string>
+    <string name="fastinfo2">All the glory packed inside a smaller yet much tastier bun is all what Slider Burgers are known for. A fun alternative to traditional-sized hamburgers you’d love to the fullest."</string>
+    <string name="fastingredients2">
+        Ingredients: \n
+    • Beef Mince 500 gm\n
+•  National Salt 1 tbsp\n
+•  Black Pepper – Grinded  1 tbsp\n
+•  Garlic – Chopped 1 tbsp\n
+•  Fresh Ginger Paste  1 tsp\n\n
+        For Burger:\n
+•  Slider Buns 6\n
+•  Rocket Leaves 5-6\n
+•  Ice berg Lettuce  5-6\n
+•  Tomato Slices  5-6\n
+•  Onion Sliced 5-6\n
+•  Cheese Slices 5-6\n
+•  National Tomato Ketchup 1 cup\n\n
+        For Mushroom Sauce:\n
+•  Mushrooms Fresh 50 gm\n
+•  Cream 3 tbsp\n
+•  Chicken Powder  1 tsp heaped\n
+•  Butter  1 tbsp\n
+•  Garlic – Chopped 1 tbsp\n
+•  National Black Pepper Powder 1 tsp\n\n
+        For BBQ Sauce:\n
+•  National Tomato Ketchup 2 tbsp\n
+•  BBQ Sauce 2 tbsp\n
+•  Garlic Powder 1 tsp\n\n
+        For Chipotle Sauce:\n
+•  National Classic Mayo 1 cup\n
+•  Small Chipotles in Can – Seeds Removed  3\n
+•  Garlic Clove 1\n
+•  Lime – Juiced 1\n
+•  National Salt 1/2 tsp\n
+
+    </string>
+    <string name="fastMethod2">Steps to Make It:\n
+    1. For the beef patty, mix 500gm of minced beef with 1 tsp National Salt, 1 tbsp National Pepper Powder, 1 tsp Fresh Ginger Paste and 1 tbsp Chopped Garlic with hands. Put aside for 5 minutes.\n
+    2. For BBQ Sauce, combine 2 tbsp BBQ National Tomato Ketchup, 2 tbsp BBQ Sauce and 1 tsp National Garlic Powder.\n
+    3. For Mushroom Sauce, Melt 1 tbsp butter and sauté chopped garlic in it for half a minute on low flame. Now add the mushrooms and cook for 2 minutes. Add 3 tbsp cream, 1 tsp chicken powder and 1 tsp National Black Pepper Powder, reduce the sauce for 2-3 minutes and cool it.\n
+    4. For Chipotles Sauce, combine all the ingredients in the blender or mini-food processor. Mix until you have smooth creamy sauce. Taste and adjust the spice level based on your preference.\n
+    5. To make the beef patties, Make small patties with hand and panfry it in less oil for 3 minutes each side on medium-low flame.\n
+    6. For all the sliders, roast the slider breads, put each sauce on it, then rocket leaves, then cheese slice, then beef patty, then the sauce again and then tomatoes and onions on top. Cover with the top slider bun and serve immediately with National Tomato Ketchup and fries.\n
+    </string>
+    <string name="fastinfo3">Chicken pieces, tossed in warm Middle Eastern spices, then baked until perfectly tender. Serve with pita bread with your favorite salads and National sauces! A tremendous treat for the whole family, without a doubt."</string>
+    <string name="fastingredients3">
+        Ingredients: \n
+    • National Cumin Powder 1 tsp\n
+•  National Turmeric Powder 1tsp\n
+•  National Coriander Powder 1 tsp\n
+•  National Garlic Powder 1 tsp\n
+•  Paprika 1 tbsp\n
+•  Ground Cloves 1/2 tsp\n
+•  Cayenne Pepper  1 tsp\n
+•  National Salt 1 tsp heaped\n
+•  Chicken Thighs – Boneless and Skinless 4 pcs\n
+•  Large Onion – Thinly Sliced 1\n
+•  Large Lemon- Juiced  1\n
+•  Extra Virgin Olive Oil 1/3 cup\n
+•  Khubbus 4\n
+•  French Fries – frozen 2 cups\n
+•  Pickled Beetroots 2 tbsp\n
+•  Pickled Jalapeños 2 tbsp\n
+•  Iceberg Lettuce Cut 4 tbsp\n
+•  Pickles or Kalmata Olives to serve\n\n
+        For Tahini Sauce:\n
+•  Tahini Paste 2 tbsp\n
+•  Lemon Juice 2 tbsp\n
+•  National Classic Mayo 2 tbsp\n
+•  National Salt 1/2 tsp\n\n
+        For Mayo Sauce:\n
+•  National Classic Mayo 4 tbsp\n
+•  Greek Yogurt 4 tbsp\n
+•  Lemon Juice 4 tbsp\n
+•  Garlic Freshly Minced  2 tbsp\n
+•  Garlic Powder 1 tsp\n
+    </string>
+    <string name="fastMethod3">Steps to Make It:\n
+    1. Take 4 pieces of Boneless Chicken and season it with National Salt, on all sides.\n
+    2. To make Spicy Shawarma mixture, in a small bowl, mix 1 tsp each of National Cumin Powder, National Turmeric Powder, National Coriander Powder, National Garlic Powder, Sweet Paprika and Garlic Cloves; set this mixture aside.\n
+    3. Marinate the chicken with the Spicy Shawarma mixture. Add the onions, lemon juice and olive oil. Toss everything together again. Cover and refrigerate for 3 hours or overnight (if you’re short on time, you can cut or skip marinating time) and refrigerate it for 3 hours.\n
+    4. To prepare Tahini sauce, combine 2 tbsp each of Tahini Paste, Lemon Juice, National Classic Mayo with ½ tsp National Salt. Mix it well.\n
+    5. For Mayo Sauce, combine 4 tbsp each of  National Classic Mayo, yogurt, lemon juice and with 2 tbsp of minced Garlic and 1 tsp National Garlic Powder. Blend it well.\n
+    6. Take the chicken out of the fridge and let it sit in room temperature for a few minutes.\n
+    7. When ready, preheat the oven to 425 degrees F.\n
+    8. Spread the marinated chicken with the onions in one layer on a large lightly-oiled baking sheet pan. Roast for 30 minutes in the 425 degrees F heated-oven. Remove from the oven.\n
+    9. While the chicken is roasting, roast and cut the Khubbus.\n
+    10.Thinly slice the chicken into small bite-sized pieces.\n
+    11.To serve, open pita pockets up. Spread a little tahini sauce or mayo sauce and add chicken shawarma, arugula, pickles and olives.\n
+    </string>
+    <string name="fastinfo4">Enjoy this scrumptious classic three-layered Club Sandwich recipe, tastier than ever with National Classic Mayo and National Tomato Ketchup."</string>
+    <string name="fastingredients4">
+        Ingredients: \n
+    • Large Bread Slices  6\n
+•  Chicken – boiled and shredded ¼ kg\n
+•  Chicken Fillets – smoked ¼ kg\n
+•  National Classic Mayo 1 cup\n
+•  Crushed Black Pepper 1 tbsp\n
+•  National Chili Garlic Sauce 1 cup\n
+•  Cucumber 1\n
+•  Tomato  1\n
+•  National Tomato Ketchup 1 cup\n
+•  Iceberg Lettuce ½\n
+•  Salad Leaves 4\n
+•  Eggs 2\n
+•  Butter 6 tbsp\n\n
+        For Honey Mustard Sauce:\n
+•  National Classic Mayo ½ cup\n
+•  Honey 1 tbsp heaped\n
+•  Mustard Paste 1 tbsp\n\n
+        For Bbq Sauce:\n
+•  National Tomato Ketchup 3 tbsp\n
+•  BBQ Sauce 3 tbsp\n\n
+    </string>
+    <string name="fastMethod4">Steps to Make It:\n
+    1. For Honey Mustard Sauce: Mix all the ingredients together.\n
+    2. For BBQ Sauce: Mix all the ingredients together.\n
+    3. For Chicken Spread: Mix National Classic Mayo, National Chili Garlic Sauce, crushed black pepper and shredded chicken together and keep it aside.\n
+    4. Toast all the breads with 1 tsp butter on each slice. On the first slice, add dollop of the chicken spread, add BBQ sauce and place the other slice. Now generously add honey mustard sauce on the other slice, put fried egg, cucumber, iceberg, tomato, salad leave and smoked chicken filled.\n
+    5. Press the sandwich and cut the edges.\n
+    6. Serve it with French fries and National Tomato Ketchup.\n
+    </string>
+    <string-array name="recipe_array">
+        <item>Colorful Rice Salad</item>
+        <item>Salmon Fried Rice</item>
+        <item>Rice with Mushrooms</item>
+        <item>Bombay Biryani</item>
+        <item>Masala Kheema</item>
+        <item>Meat Meatball Spaghetti</item>
+        <item>Slow cooker beef</item>
+        <item>Beaf Stew</item>
+        <item>Poached eggs</item>
+        <item>Banana pancakes</item>
+        <item>Simple nutty pancakes</item>
+        <item>Sunshine smoothie</item>
+        <item>Zafrani Coconut Kheer</item>
+        <item>Royal Falooda</item>
+        <item>Tiramisu Poke Cake</item>
+        <item>Sawayyan Bites</item>
+        <item>Pizza Fries</item>
+        <item>Slider Burger</item>
+        <item>Chicken Shawarma</item>
+        <item>Club Sandwich recipe</item>
+    </string-array>
+</resources>
+

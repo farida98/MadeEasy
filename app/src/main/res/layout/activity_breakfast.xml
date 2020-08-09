@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:fillViewport="false"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/newcolor"
+        tools:ignore="ExtraText"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context=".Breakfast"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="201dp"
+
+            android:background="@drawable/bbbb" />
+
+        <TextView
+            android:id="@+id/ricedish1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@color/white"
+            android:fontFamily="sans-serif"
+            android:text="Poached eggs"
+            android:textAlignment="center"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+            android:background="@drawable/breakfast1"
+            android:onClick="Break1" />
+
+        <TextView
+            android:id="@+id/ricedish2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Banana pancakes"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+            android:background="@drawable/bf2"
+            android:onClick="Break2"
+            />
+        <TextView
+            android:id="@+id/ricedish3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Simple nutty pancakes"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="156dp"
+            android:background="@drawable/bfff3"
+            android:onClick="Break3"
+            />
+        <TextView
+            android:id="@+id/ricedish4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif"
+            android:text="Sunshine smoothie"
+            android:textAlignment="center"
+            android:background="@color/white"
+            android:textColor="@color/brown"
+            android:textSize="20sp"
+            android:textStyle="italic"></TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="156dp"
+            android:background="@drawable/bf4"
+            android:onClick="Break4"
+            />
+    </LinearLayout>
+</ScrollView>
